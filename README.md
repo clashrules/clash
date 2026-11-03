@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashrules/clash" title="Clash下载官网中文资源分享">
+  <a href="https://github.com/clashrules/clash" title="Clash / Mihomo 规则配置菜谱">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/c5623814-b979-4fa9-8ccb-73d9883f5a29" />
 
   </a>
-  <h1>Clash下载官网中文资源分享 (2026年11月更新)</h1>
+  <h1>Clash / Mihomo 规则配置菜谱 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台下载官网中文资源分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>规则写法、规则集来源与常见分流示例；客户端下载另见 Releases</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
