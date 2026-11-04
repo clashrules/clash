@@ -20,6 +20,8 @@
 
 旁证热度（不是规则源）：[代理雷达 guiforcores/dailileida](https://github.com/guiforcores/dailileida)
 
+[节点雷达](https://jiedianleida.com/)：规则菜谱外的节点试料——免费 Clash / V2Ray / SS / Trojan 日更测速，配好分流后可先用公开节点验连通。
+
 内核与配置字段说明可对照：[MetaCubeX Mihomo](https://github.com/MetaCubeX/mihomo) · [MetaCubeX Wiki](https://wiki.metacubex.one/)
 
 ---
